@@ -28,6 +28,7 @@ To create an interactive Excel dashboard for Vrinda Store that provides actionab
 
 
 # 🖼️ Dashboard Preview
+<img width="1527" height="747" alt="Image" src="https://github.com/user-attachments/assets/93ff4284-ff2f-443d-9388-a7a8086f87a0" />
 
 # 🛠️ Tools Used
 Microsoft Excel
